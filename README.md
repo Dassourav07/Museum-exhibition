@@ -17,3 +17,6 @@ We will assume that the animal starts from rest, accelerates to top speed and th
 at the top speed for a specified time. We will also assume that all motion is in a straight line.
 While accelerating, we will assume that the speed of the animal increases from zero to the maximum
 running speed, vmax, in a linear fashion
+
+Science Rookie Not familiar with scientific terminology or notation
+Science Enthusiast Familiar with common scientific terminology and notation
