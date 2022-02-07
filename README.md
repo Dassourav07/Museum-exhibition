@@ -1,4 +1,4 @@
-# Master
+# museum exhibition
 
 Python program
 guide users to a better understanding and appreciation of how animals on the Serengeti plains can accelerate from rest to
