@@ -40,12 +40,12 @@ else:
 		print("\n") #Print New Line
 
 	#Checking Using Option	
-if(userInput == 1): #This Option Will Print List Of Students
+if(userInput == 1): #This Option Will Print List Of user
 		print("""The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras),
 followed by their predators, is one of the most impressive natural events in the world.\n
  """)  
 	#Checking Using Option	
-elif(userInput == 2): #This Option Will Print List Of Students
+elif(userInput == 2): #This Option Will Print List Of user
 		print("""The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras),
 followed by their predators, is one of the most impressive natural events in the world.\n """)  
 
@@ -85,7 +85,7 @@ t = print (input("Top speed:"))
 print(answer1)
 doc()
 
-def rerun (): #Making Runable Problem1353
+def rerun (): #Making Runable Problem 000
 	rerun = input("\n Enthusiast? Y/n: ")
 	if(rerun.lower() == 'y'):
 		if(platform.system() == "Windows"): #Checking User OS For Clearing The Screen
@@ -96,7 +96,7 @@ def rerun (): #Making Runable Problem1353
 rerun()		 
 
 
-def runAgain(): #Making Runable Problem1353
+def runAgain(): #Making Runable Problem000
 	runAgn = input("\n Enthusiast? Y/n: ")
 	if(runAgn.lower() == 'y'):
 		if(platform.system() == "Windows"): #Checking User OS For Clearing The Screen
