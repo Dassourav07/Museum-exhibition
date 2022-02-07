@@ -13,7 +13,7 @@ import argparse
   
 from functools import reduce
 
-def manage(): #Function For The Student Management System
+def manage(): #Function For The  Management System
 
 	x = "#" * 30
 	y = "=" * 28
